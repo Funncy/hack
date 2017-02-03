@@ -17,7 +17,7 @@
 > 소프트웨어 중심대학 오픈소스 해커톤 관련 내용 정리
 
 #### 해커톤 공지
-* <img src="https://raw.githubusercontent.com/jongkwang/IoTLabs/master/assets/img/overview1.png">
+* <img src="https://github.com/ssh9112/hack/tree/master/assets/img/hackathon/oss_hack_poster.png">
 
 * 주최: 한국정보과학회 오픈소스소프트웨어 연구회(http://sigoss.github.io)
 
